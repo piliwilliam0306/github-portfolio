@@ -30,7 +30,10 @@ _May 2012 - July 2015, Taipei, Taiwan_
 ### Udacity Self-Driving Car Engineer Nanodegree
 _May 2017 - September 2018_
 - Trained an end-to-end self-driving car model that successfully navigated a simulated environment.
+  ![Alt text](assets/img/unity.gif)
+
 - Developed algorithms for traffic sign classifier, lane detection, and vehicle detection using computer vision techniques.
+  ![Alt text](assets/img/car_lane_detect.gif)
 - Implemented state estimation and localization using Extended Kalman and Particle filters for a self-driving car.
 
 ## Involvement
