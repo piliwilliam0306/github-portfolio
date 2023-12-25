@@ -13,6 +13,7 @@ _March 2020 - Present, Taipei, Taiwan_
 ### Mechatronics Engineer @ Adecco (TVC at Google)
 _December 2017 - February 2020, Changhua County, Taiwan_
 - Integrated hardware and software to create an IoT-based inventory management system that helped operators pick items more efficiently.
+  ![Alt text](assets/img/iot.jpg)
 - Developed an AOI system with Cognex VisionPro that used machine vision to inspect products for defects.
 
 ### Robotics Software Engineer @ Advanced Robotics
