@@ -20,6 +20,7 @@ _December 2017 - February 2020, Changhua County, Taiwan_
 _August 2015 - May 2017, Taipei, Taiwan_
 - Developed firmware for motor control systems and IMU sensor fusion to improve robot pose estimation.
 - Developed and deployed ROS-enabled autonomous mobile robots that can navigate in diverse indoor environments, thoroughly assessing and validating robot performance across a wide range of testing scenarios using Gazebo simulation environments.
+  ![Alt text](assets/img/nav.gif)
 
 ### Research Assistant @ LeCosPA Center
 _May 2012 - July 2015, Taipei, Taiwan_
