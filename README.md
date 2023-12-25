@@ -4,23 +4,23 @@ Software Engineer with 7+ years of experience in the robotics and automation ind
 
 ## Experience
 
-### Senior System Integration Engineer at Aeolus Robotics
+### Senior System Integration Engineer @ Aeolus Robotics
 _March 2020 - Present, Taipei, Taiwan_
 - Designed an automated diagnostics software system for a service robot that could identify mechanical, electrical, and sensor faults, reducing downtime and improving operational efficiency.
 - Evaluated a diverse range of sensors and developed calibration methods to ensure the accuracy, reliability, and suitability of the robot's sensors for its application.
 - Collaborated closely with cross-functional teams to develop complex robotic systems, ensuring the reliability and safety of the robot through extensive testing and troubleshooting.
 
-### Mechatronics Engineer at Adecco (TVC at Google)
+### Mechatronics Engineer @ Adecco (TVC at Google)
 _December 2017 - February 2020, Changhua County, Taiwan_
 - Integrated hardware and software to create an IoT-based inventory management system that helped operators pick items more efficiently.
 - Developed an AOI system with Cognex VisionPro that used machine vision to inspect products for defects.
 
-### Robotics Software Engineer at Advanced Robotics
+### Robotics Software Engineer @ Advanced Robotics
 _August 2015 - May 2017, Taipei, Taiwan_
 - Developed firmware for motor control systems and IMU sensor fusion to improve robot pose estimation.
 - Developed and deployed ROS-enabled autonomous mobile robots that can navigate in diverse indoor environments, thoroughly assessing and validating robot performance across a wide range of testing scenarios using Gazebo simulation environments.
 
-### Research Assistant at LeCosPA Center
+### Research Assistant @ LeCosPA Center
 _May 2012 - July 2015, Taipei, Taiwan_
 - Designed mixed-signal circuits and PCB layouts.
 - Implemented a closed-loop control system for a two-axis gear-drive gimbal using FPGA.
